@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity">
+        <item>None</item>
+        <item>UI Design</item>
+        <item>UX Design</item>
+        <item>Development</item>
+        <item>Testing</item>
+        <item>Training</item>
+        <item>Learning</item>
+        <item>Other</item>
+    </string-array>
+</resources>
